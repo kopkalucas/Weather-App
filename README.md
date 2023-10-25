@@ -2,6 +2,10 @@
 ## Overview
 This Android Weather App is a basic application that allows users to search for a city and retrieve weather information using the OpenWeatherMap API. The app is written in Kotlin and provides a simple and intuitive interface to access weather data for various locations.
 
+![image](https://github.com/kopkalucas/Weather-App/assets/56232084/3e0f044f-cec4-4dc6-927b-0b80eec663e7)
+
+
+
 ## Features
 
 - Search for a city to get current weather information.
